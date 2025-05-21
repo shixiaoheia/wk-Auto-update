@@ -1,4 +1,4 @@
-《本项目做https://youtu.be/40azl6GhcTg的补充，更加方便各位更好的完成搭建BPB面板》
+《本项目做https://youtu.be/40azl6GhcTg 的补充，更加方便各位更好的完成搭建BPB面板》
 首先注册你的cloudfare【域名地址：www.cloudflare-cn.com】
 ![image](https://github.com/user-attachments/assets/17269d40-d5e2-4f88-8957-9492488db0bc)
 注册你的账号，并且等录吧
